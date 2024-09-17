@@ -1,31 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b61577fc-51fb-499f-acd2-c1d83a057c75" name="Changes" comment="" />
+    <list default="true" id="b61577fc-51fb-499f-acd2-c1d83a057c75" name="Changes" comment="Starting Project">
+      <change afterPath="$PROJECT_DIR$/src/Argument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2D.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMultidimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayPrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleExpressionFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elvisoprator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hitungLK.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulatoeSederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulatorWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oprator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pair.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/perulangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safeCalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tabelperkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_dowhileLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lrpWamyX5GNrvb60vCIiVZ3Zk7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.AkarKuadratKt.executor": "Run",
+    "Kotlin.ArgumentKt.executor": "Run",
+    "Kotlin.Array2DKt.executor": "Run",
+    "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.ArrayListOfKt.executor": "Run",
+    "Kotlin.ArrayMethodKt.executor": "Run",
+    "Kotlin.ArrayMultidimensiKt.executor": "Run",
+    "Kotlin.ArrayPrimitiveKt.executor": "Run",
+    "Kotlin.BreakContinueKt.executor": "Run",
+    "Kotlin.CollectionsKt.executor": "Run",
+    "Kotlin.ElvisopratorKt.executor": "Run",
+    "Kotlin.ExceptionKt.executor": "Run",
+    "Kotlin.ForLoop2Kt.executor": "Run",
+    "Kotlin.ForLoopKt.executor": "Run",
+    "Kotlin.FungsiKt.executor": "Run",
+    "Kotlin.FungsiMathKt.executor": "Run",
+    "Kotlin.FungsiNilaiKembaliKt.executor": "Run",
+    "Kotlin.HitungLKKt.executor": "Run",
+    "Kotlin.KalkulatoeSederhanaKt.executor": "Run",
+    "Kotlin.KalkulatorWhenKt.executor": "Run",
+    "Kotlin.KeksponensialKt.executor": "Run",
+    "Kotlin.LamdaKt.executor": "Run",
+    "Kotlin.ListOfKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
+    "Kotlin.MutableListOfKt.executor": "Run",
+    "Kotlin.NullKt.executor": "Run",
+    "Kotlin.OpratorKt.executor": "Run",
+    "Kotlin.PairKt.executor": "Run",
+    "Kotlin.Percabangan2Kt.executor": "Run",
+    "Kotlin.PercabanganKt.executor": "Run",
+    "Kotlin.PerulanganKt.executor": "Run",
+    "Kotlin.RangesKt.executor": "Run",
+    "Kotlin.SafeCallsKt.executor": "Run",
+    "Kotlin.SetKt.executor": "Run",
+    "Kotlin.SingleExpressionFunctionsKt.executor": "Run",
+    "Kotlin.TabelperkalianKt.executor": "Run",
+    "Kotlin.WhenKt.executor": "Run",
+    "Kotlin.WhileLoopKt.executor": "Run",
+    "Kotlin.While_dowhileLoopKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.LamdaKt">
+    <configuration name="ArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumentKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsiNilaiKembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiNilaiKembaliKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LamdaKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleExpressionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleExpressionFunctionsKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LamdaKt" />
+        <item itemvalue="Kotlin.ArgumentKt" />
+        <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
+        <item itemvalue="Kotlin.PairKt" />
+        <item itemvalue="Kotlin.FungsiNilaiKembaliKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +175,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725948084683</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starting Project">
+      <option name="closed" value="true" />
+      <created>1725948134000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725948134000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starting Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting Project" />
   </component>
 </project>
