@@ -1,7 +1,6 @@
 fun main(args: Array<String>) {
 //Array methods
 //sort()
-
     val simpsonsA = arrayOf("Homer", "Marge", "Bart", "Lisa", "Meggie")
     simpsonsA.sort()
     for (simpson in simpsonsA) {

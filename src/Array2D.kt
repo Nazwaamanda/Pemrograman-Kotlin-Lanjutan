@@ -1,5 +1,5 @@
 fun main(args: Array<String>){
-//initialize a 2D array
+    //initialize a 2D array
     var cinema = arrayOf<Array<Int>>()
     for (i in 0..4) {
         var array = arrayOf<Int>()
@@ -14,7 +14,8 @@ fun main(args: Array<String>){
         }
         println()
     }
-//Filling with data
+
+    //Filling with data
     cinema[2][2] = 1
     for (i in 1..3) {
         cinema[3][i] = 1
@@ -28,6 +29,5 @@ fun main(args: Array<String>){
             print("$value ")
         }
         println()
-
     }
 }
